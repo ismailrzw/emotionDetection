@@ -1,5 +1,4 @@
 opencv-python
-smtplib
 deepface
 ultralytics
 deep-sort-realtime
