@@ -1,5 +1,6 @@
 import cv2
 import time
+import streamlit
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
